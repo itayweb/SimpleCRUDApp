@@ -1,0 +1,52 @@
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.exe.config
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.exe
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.pdb
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\MySql.Data.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\MySql.Data.EntityFramework.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\Google.Protobuf.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\Zstandard.Net.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\BouncyCastle.Crypto.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\Ubiety.Dns.Core.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\Renci.SshNet.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\System.Buffers.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\K4os.Compression.LZ4.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\K4os.Hash.xxHash.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\System.Memory.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\MySql.Data.xml
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csprojAssemblyReference.cache
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.exe.config
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.MainWindow.resources
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.Properties.Resources.resources
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csproj.GenerateResource.cache
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csproj.CoreCompileInputs.cache
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csproj.CopyComplete
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.exe
+E:\Disk Backup\Projects\VS\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.exe.config
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.exe
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\ToDoApplication.pdb
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\Zstandard.Net.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\BouncyCastle.Crypto.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\Ubiety.Dns.Core.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\Renci.SshNet.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\System.Buffers.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\K4os.Compression.LZ4.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\K4os.Hash.xxHash.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\System.Memory.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\MySql.Data.xml
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\bin\Debug\MySql.Data.EntityFramework.xml
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.exe.config
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.MainWindow.resources
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.Properties.Resources.resources
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csproj.CopyComplete
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.exe
+\\Mac\Home\Downloads\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb
